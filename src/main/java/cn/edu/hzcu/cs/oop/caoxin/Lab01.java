@@ -1,4 +1,4 @@
-package cn.edu.hzcu.cs.oop;
+package cn.edu.hzcu.cs.oop.caoxin;
 
 public class Lab01 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package cn.edu.hzcu.cs.oop;
+package cn.edu.hzcu.cs.oop.caoxin;
 
 import java.util.Scanner;
 public class Lab02T1 {
