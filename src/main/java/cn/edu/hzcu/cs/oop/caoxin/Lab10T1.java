@@ -1,7 +1,5 @@
 package cn.edu.hzcu.cs.oop.caoxin;
 
-import java.time.LocalTime;
-
 class Time {
     private int hour;
     private int minute;
@@ -43,7 +41,7 @@ class Time {
     }
 }
 
-public class Lab09T1 {
+public class Lab10T1 {
     public static void main(String[] args) {
         Time time1 = new Time();
         Time time2 = new Time(555550000);

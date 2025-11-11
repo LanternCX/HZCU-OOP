@@ -56,7 +56,7 @@ class BMI {
 }
 
 
-public class Lab09T2 {
+public class Lab10T2 {
     public static void main(String[] args) {
         BMI bmi1 = new BMI("John Doe", 18, 145, 70);
         System.out.println("The BMI for " + bmi1.getName() + " is " + bmi1.getBMI() + " " + bmi1.getStatus());
